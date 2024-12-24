@@ -1,4 +1,4 @@
-# IT3133: Mobile Communication and Computing - React Practicals
+# IT3133: Mobile Communication and Computing - React and React Native Practicals
 
 Welcome to the official repository for _IT3133: Mobile Communication and Computing_ practicals and assignments! This repository is maintained for uploading the daily React practical sessions and assignments provided during lecture hours by the lecturer in charge.
 
